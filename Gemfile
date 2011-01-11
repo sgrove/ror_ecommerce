@@ -35,7 +35,7 @@ gem 'paperclip'
 gem 'prawn'
 
 gem 'rails3-generators'
-gem 'rmagick',    :require => 'RMagick'
+#gem 'rmagick',    :require => 'RMagick'
 #gem 'sunspot'
 gem 'sunspot_rails', '1.2.rc4'
 gem 'ssl_requirement'
